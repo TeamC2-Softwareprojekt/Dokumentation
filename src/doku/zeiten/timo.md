@@ -4,7 +4,7 @@
 | :------------: | :-------------------------------: | :-------: |
 | **22.04.2024** |         Kick-Off Meeting          | 2 Stunden |
 | **22.04.2024** | Dokumentation Softwareproduktidee | 2 Stunden |
-|   **..2024**   |                                   |  Stunden  |
+| **23.04.2024** | Präsentation Softwareproduktidee  | 2 Stunden  |
 |   **..2024**   |                                   |  Stunden  |
 |   **..2024**   |                                   |  Stunden  |
 |   **..2024**   |                                   |  Stunden  |
