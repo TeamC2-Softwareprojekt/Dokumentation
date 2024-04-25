@@ -118,7 +118,7 @@ Das Produkt, **ParkBlazer**, richtet sich an Autofahrer in städtischen Gebieten
 
 ### Stakeholderanalyse: Welche Stakeholder sind betroffen?
 ***
-**PARCAR** richtet sich an verschiedene Stakeholder-Gruppen, darunter:
+**ParkBlazer** richtet sich an verschiedene Stakeholder-Gruppen, darunter:
 
 - Autofahrer
 - Parkplatzbesitzer
