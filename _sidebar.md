@@ -13,6 +13,8 @@
 - Protokolle
 
   - [Protokoll Softwareproduktidee](src/doku/protokolle/softwareproduktidee.md)
+  - [Protokoll Pflichtenheft](src/doku/protokolle/pflichtenheft.md)
+
 
 - Präsentation
   - <a href="src/praesentation/praesentation.html">Präsentation</a>

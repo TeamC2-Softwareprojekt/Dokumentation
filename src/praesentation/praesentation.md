@@ -6,7 +6,7 @@ class: center, middle
 
 # Softwareproduktidee
 
-Tim Röckemann, Marvin Petschulat, Jan-Ole Löffler
+Tim Röckemann, Marvin Petschulat, Jan-Ole Löffler,
 Timo Haverich, Edwin Dik, Bent Schöne, Mattis Wellenbüscher
 
 ---
