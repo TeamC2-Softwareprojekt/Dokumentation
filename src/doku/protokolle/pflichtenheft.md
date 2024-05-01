@@ -21,15 +21,15 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
 # 2 Anforderungen
 
 ## 2.1 Stakeholder
-| Funktion / Relevanz | Name | Kontakt / Verfügbarkeit |
-|---|---|---|
-| Product Owner, DevOps-Engineer, Backend-Entwickler | Timo Haverich | timo.haverich@hsbi.de |
-| Product Owner, UX/UI Designer, Soundentwickeler, Frontend-Entwickler (App-Team) | Marvin Petschulat | marvin.petschulat@hsbi.de |
-| Product Owner, Frontend-Entwickler (Web-Team), DevOps-Engineer | Edwin Dik | edwin.dik@hsbi.de |
-| Product Owner, Frontend-Entwickler (Web-Team) | Bent Schöne | bent.schoene@hsbi.de |
-| Product Owner, Frontend-Entwickler (Web-Team) | Mattis Wellenbüscher | mattis.wellenbuescher@hsbi.de |
-| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team), DevOps-Engineer | Tim Röckemann | tim.roeckemann@hsbi.de |
-| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team) | Jan-Ole Löffler | jan-ole_timo.loeffler@hsbi.de |
+| Funktion / Relevanz                                                             | Name                 | Kontakt / Verfügbarkeit       |
+| ------------------------------------------------------------------------------- | -------------------- | ----------------------------- |
+| Product Owner, DevOps-Engineer, Backend-Entwickler                              | Timo Haverich        | timo.haverich@hsbi.de         |
+| Product Owner, UX/UI Designer, Soundentwickeler, Frontend-Entwickler (App-Team) | Marvin Petschulat    | marvin.petschulat@hsbi.de     |
+| Product Owner, Frontend-Entwickler (Web-Team), DevOps-Engineer                  | Edwin Dik            | edwin.dik@hsbi.de             |
+| Product Owner, Frontend-Entwickler (Web-Team)                                   | Bent Schöne          | bent.schoene@hsbi.de          |
+| Product Owner, Frontend-Entwickler (Web-Team)                                   | Mattis Wellenbüscher | mattis.wellenbuescher@hsbi.de |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team), DevOps-Engineer  | Tim Röckemann        | tim.roeckemann@hsbi.de        |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team)                   | Jan-Ole Löffler      | jan-ole_timo.loeffler@hsbi.de |
 
 
 
@@ -95,27 +95,28 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
 
 ### 2.3.3 Qualitätsmerkmale
 * Externe Qualitätsanforderungen (z.B. Performance, Sicherheit, Zuverlässigkeit, Benutzerfreundlichkeit)
-Qualitätsmerkmal | sehr gut | gut | normal | nicht relevant
----|---|---|---|---
-**Zuverlässigkeit** | | | | |
-Fehlertoleranz |X|-|-|-|
-Wiederherstellbarkeit |X|-|-|-|
-Ordnungsmäßigkeit |X|-|-|-|
-Richtigkeit |X|-|-|-|
-Konformität |-|X|-|-|
-**Benutzerfreundlichkeit** | | | | |
-Installierbarkeit |-|-|X|-|
-Verständlichkeit |X|-|-|-|
-Erlernbarkeit |-|-|x|-|
-Bedienbarkeit |x|-|-|-|
-**Performance** | | | | |
-Zeitverhalten |x|-|-|-|
-Effizienz|x|-|-|-|
-**Sicherheit** | | | | |
-Analysierbarkeit |X|-|-|-|
-Modifizierbarkeit |x|-|-|-|
-Stabilität |-|x|-|-|
-Prüfbarkeit |X|-|-|-|
+
+|      Qualitätsmerkmal      | sehr gut |  gut  | normal | nicht relevant |
+| :------------------------: | :------: | :---: | :----: | :------------: |
+|    **Zuverlässigkeit**     |          |       |        |                |
+|       Fehlertoleranz       |    X     |   -   |   -    |       -        |
+|   Wiederherstellbarkeit    |    X     |   -   |   -    |       -        |
+|     Ordnungsmäßigkeit      |    X     |   -   |   -    |       -        |
+|        Richtigkeit         |    X     |   -   |   -    |       -        |
+|        Konformität         |    -     |   X   |   -    |       -        |
+| **Benutzerfreundlichkeit** |          |       |        |                |
+|     Installierbarkeit      |    -     |   -   |   X    |       -        |
+|      Verständlichkeit      |    X     |   -   |   -    |       -        |
+|       Erlernbarkeit        |    -     |   -   |   X    |       -        |
+|       Bedienbarkeit        |    X     |   -   |   -    |       -        |
+|      **Performance**       |          |       |        |                |
+|       Zeitverhalten        |    X     |   -   |   -    |       -        |
+|         Effizienz          |    X     |   -   |   -    |       -        |
+|       **Sicherheit**       |          |       |        |                |
+|      Analysierbarkeit      |    X     |   -   |   -    |       -        |
+|     Modifizierbarkeit      |    X     |   -   |   -    |       -        |
+|         Stabilität         |    -     |   X   |   -    |       -        |
+|        Prüfbarkeit         |    X     |   -   |   -    |       -        |
 
 
 
@@ -159,23 +160,19 @@ Prüfbarkeit |X|-|-|-|
 
 
 ## 2.5 Anforderungen im Detail
-| Als        | möchte ich                                 | so dass                                     | Akzeptanz                        |
-| :--------- | :---------------------------------------- | :------------------------------------------ | :------------------------------- |
-| Autofahrer | freie Parkplätze in meiner Nähe finden    | ich weniger Zeit mit der Parkplatzsuche verbringe | Die App zeigt verfügbare Parkplätze auf einer Karte an. |
-| Parkplatzbesitzer | meinen nicht genutzten Parkplatz vermieten | ich zusätzliches Einkommen generieren kann  | Ein Mietvertrag kann über die Plattform abgeschlossen werden. |
-| Umweltbewusster Nutzer | eine App zur Parkplatzsuche nutzen   | ich zur Reduzierung von Verkehrsstaus und Umweltbelastungen beitrage | Die App bietet Informationen über die Auswirkungen der Parkraumnutzung auf die Umwelt. |
-| Pendler    | Parkplätze für bestimmte Zeiten reservieren | ich sicher sein kann, dass ein Parkplatz verfügbar ist, wenn ich ihn benötige | Nutzer können Reservierungen für bestimmte Zeiten und Tage vornehmen. |
-| Geschäftsreisender | Parkplätze nahe wichtiger Geschäftsorte finden     | ich zu meinen Meetings pünktlich und entspannt ankomme  | Die App zeigt Parkplätze in der Nähe von Bürogebäuden oder Meeting-Spots. |
-| Stadtbewohner   | langfristige Parkmöglichkeiten mieten             | ich mir keine täglichen Sorgen um die Parkplatzsuche machen muss | Nutzer können Parkplätze für Wochen oder Monate mieten. |
-| Tourist         | Informationen über Parkgebühren und -regeln erhalten | ich Parkstrafen vermeiden kann                          | Die App bietet detaillierte Informationen zu lokalen Parkvorschriften und Kosten. |
-| App-Entwickler  | Feedback von Nutzern erhalten                       | ich die App verbessern und benutzerfreundlicher machen kann | Ein Feedback-System ist integriert, das Nutzerbewertungen und -vorschläge sammelt. |
-| Anwohner        | über die Verfügbarkeit von Parkplätzen in meiner Gegend informiert werden | ich meine Fahrtrouten und -zeiten besser planen kann   | Die App sendet Benachrichtigungen über aktuelle Parkplatzsituationen in Echtzeit. |
-| Stadtplaner     | Daten über Parkraumnutzung analysieren             | städtische Verkehrs- und Parkraumplanung optimiert werden kann | Die App stellt aggregierte Daten zur Verfügung, die die Parkgewohnheiten und Spitzenzeiten zeigen. |
-| Reisender        | Parkplätze nahe Flughäfen und Bahnhöfen finden   | ich meine Reise stressfrei beginnen kann                     | Die App zeigt verfügbare Parkplätze an Verkehrsknotenpunkten an. |
-| Event-Organisator | verfügbare Parkplätze für Eventbesucher anbieten | Besucher leichter einen Parkplatz finden und pünktlich sein können | Nutzer können Parkplätze speziell für Veranstaltungen reservieren. |
-| Autovermieter    | Kooperationen mit Parkplatzanbietern aufbauen    | Kunden nahtlose Parkmöglichkeiten bieten können              | Die App ermöglicht es, Partnerschaften über eine spezielle Schnittstelle zu verwalten. |
-| Immobilienverwalter | effiziente Nutzung von Parkflächen sicherstellen | die Parkraumkapazitäten optimal genutzt werden               | Die App ermöglicht eine dynamische Verwaltung und Buchung von Parkflächen. |
-| Mobilitätsanalyst | Trends in der Parkplatznutzung analysieren      | datengestützte Entscheidungen für Stadtplanung treffen können | Die App liefert detaillierte Statistiken und Nutzungsmuster in Echtzeit. |
+| Als                    | möchte ich                                           | so dass                                                                       | Akzeptanz                                                                                                     |
+| :--------------------- | :--------------------------------------------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| Autofahrer             | freie Parkplätze in meiner Nähe finden               | ich weniger Zeit mit der Parkplatzsuche verbringe                             | Die App zeigt verfügbare Parkplätze auf einer Karte an                                                        |
+| Registrierter Benutzer | angezeigte Parkplätze bewerten können                | die Qualität und Verfügbarkeit der Parkplätze bewertet werden kann            | Die App bietet eine Möglichkeit zur Bewertung der angezeigten Parkplätze                                      |
+| Registrierter Benutzer | verfügbare Parkplätze zur Karte hinzufügen           | dieser anderen Benutzern auf der Karte angezeigt wird                         | Die App bietet die Möglichkeit einen Parkplatz zur Karte hinzuzufügen                                         |
+| Parkplatzbesitzer      | meinen nicht genutzten Parkplatz vermieten           | ich zusätzliches Einkommen generieren kann                                    | Ein Mietvertrag kann über die Plattform abgeschlossen werden                                                  |
+| Umweltbewusster Nutzer | eine App zur Parkplatzsuche nutzen                   | ich zur Reduzierung von Verkehrsstaus und Umweltbelastungen beitrage          | Die App bietet Informationen über die Auswirkungen der Parkraumnutzung auf die Umwelt                         |
+| Pendler                | Parkplätze für bestimmte Zeiten reservieren          | ich sicher sein kann, dass ein Parkplatz verfügbar ist, wenn ich ihn benötige | Nutzer können Reservierungen für bestimmte Zeiten und Tage vornehmen                                          |  |
+| Stadtbewohner          | langfristige Parkmöglichkeiten mieten                | ich mir keine täglichen Sorgen um die Parkplatzsuche machen muss              | Nutzer können Parkplätze für Wochen oder Monate mieten                                                        |
+| Tourist                | Informationen über Parkgebühren und -regeln erhalten | ich Parkstrafen vermeiden kann                                                | Die App bietet detaillierte Informationen zu lokalen Parkvorschriften und Kosten                              |
+| Entwickler             | Feedback von Nutzern erhalten                        | ich die Anwendung verbessern und benutzerfreundlicher machen kann             | Ein Feedback-System ist integriert, das Nutzerbewertungen und -vorschläge sammelt                             |
+| Stadtplaner            | Daten über Parkraumnutzung analysieren               | städtische Verkehrs- und Parkraumplanung optimiert werden kann                | Die App stellt Daten zu Parkgewohnheiten und Spitzenzeiten sowie Statistiken und Nutzungsmuster zur Verfügung |
+| Event-Organisator      | verfügbare Parkplätze für Eventbesucher anbieten     | Besucher leichter einen Parkplatz finden und pünktlich sein können            | Nutzer können Parkplätze speziell für Veranstaltungen reservieren                                             |
 
 
 
@@ -412,15 +409,15 @@ Der Client ist die Benutzeroberfläche, über die Nutzer mit der PARCAR-Plattfor
 
 
 ## 4.2 Verantwortlichkeiten
-| Funktion / Relevanz | Name | Kontakt / Verfügbarkeit |
-|---|---|---|
-| Product Owner, DevOps-Engineer, Backend-Entwickler | Timo Haverich | timo.haverich@hsbi.de |
-| Product Owner, UX/UI Designer, Soundentwickeler, Frontend-Entwickler (App-Team) | Marvin Petschulat | marvin.petschulat@hsbi.de |
-| Product Owner, Frontend-Entwickler (Web-Team), DevOps-Engineer | Edwin Dik | edwin.dik@hsbi.de |
-| Product Owner, Frontend-Entwickler (Web-Team) | Bent Schöne | bent.schoene@hsbi.de |
-| Product Owner, Frontend-Entwickler (Web-Team) | Mattis Wellenbüscher | mattis.wellenbuescher@hsbi.de |
-| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team), DevOps-Engineer | Tim Röckemann | tim.roeckemann@hsbi.de |
-| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team) | Jan-Ole Löffler | jan-ole_timo.loeffler@hsbi.de |
+| Funktion / Relevanz                                                             | Name                 | Kontakt / Verfügbarkeit       |
+| ------------------------------------------------------------------------------- | -------------------- | ----------------------------- |
+| Product Owner, DevOps-Engineer, Backend-Entwickler                              | Timo Haverich        | timo.haverich@hsbi.de         |
+| Product Owner, UX/UI Designer, Soundentwickeler, Frontend-Entwickler (App-Team) | Marvin Petschulat    | marvin.petschulat@hsbi.de     |
+| Product Owner, Frontend-Entwickler (Web-Team), DevOps-Engineer                  | Edwin Dik            | edwin.dik@hsbi.de             |
+| Product Owner, Frontend-Entwickler (Web-Team)                                   | Bent Schöne          | bent.schoene@hsbi.de          |
+| Product Owner, Frontend-Entwickler (Web-Team)                                   | Mattis Wellenbüscher | mattis.wellenbuescher@hsbi.de |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team), DevOps-Engineer  | Tim Röckemann        | tim.roeckemann@hsbi.de        |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team)                   | Jan-Ole Löffler      | jan-ole_timo.loeffler@hsbi.de |
 
 
 
