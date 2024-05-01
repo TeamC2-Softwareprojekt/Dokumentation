@@ -160,29 +160,36 @@ guten Überblick über das Softwaresystem.
 
 
 ## 3.2 Softwarearchitektur
+## Server
+Der Server ist das zentrale Element der Plattform, das die Geschäftslogik und die Datenhaltung verwaltet.
 
-**TODO**
+### Web-Schicht
+- **Aufgaben:** Empfängt und verarbeitet Anfragen von Clients über das Web.
+- **Technologien:** Node.js, Express.js
 
-* Darstellung von Softwarebausteinen (Module, Schichten, Komponenten)
-Hier stellen Sie die Verteilung der Softwarebausteine auf die Rechnerknoten dar. Das ist
-die Softwarearchitektur. Zum Beispiel Javascript-Software auf dem Client und Java-
-Software auf dem Server. In der Regel wird die Software dabei sowohl auf dem Client als
-auch auf dem Server in Schichten dargestellt.
-* Server
-* Web-Schicht
-* Logik-Schicht
-* Persistenz-Schicht
-* Client
-* View-Schicht
-* Logik-Schicht
-* Kommunikation-Schicht
-Die Abhängigkeit ist bei diesen Schichten immer unidirektional von "oben" nach "unten"
-.
-Die Softwarearchitektur aus Kapitel "Softwarearchitektur" ist demnach detaillierter als
-die Systemübersicht aus dem Kapitel "Systemübersicht"
-. Die Schichten können entweder als
-Ganzes als ein Softwarebaustein angesehen werden. In der Regel werden die Schichten aber
-noch weiter detailliert und in Softwarebausteine aufgeteilt.
+### Logik-Schicht
+- **Aufgaben:** Verarbeitet Geschäftslogik, wie das Management von Parkplatzdaten, Nutzeranfragen und Transaktionen.
+- **Technologien:** Kotlin (Java Spring Boot, Ktor)
+
+### Persistenz-Schicht
+- **Aufgaben:** Speichert und verwaltet Daten langfristig, z. B. Parkplatzinformationen, Nutzerprofile, Transaktionshistorie.
+- **Technologien:** MongoDB, PostgreSQL
+
+## Client
+Der Client ist die Benutzeroberfläche, über die Nutzer mit der PARCAR-Plattform interagieren.
+
+### UI-Schicht
+- **Aufgaben:** Darstellung der Benutzeroberfläche auf verschiedenen Plattformen (z. B. Desktop, Web, Mobile).
+- **Technologien:** Kotlin Multiplatform Mobile (KMM) für Mobile (Android, iOS), Kotlin/JS für Web, Kotlin/Native für Desktop, Leaflet oder MapTiler für Kartenintegration.
+
+### Logik-Schicht
+- **Aufgaben:** Verarbeitet Benutzerinteraktionen, sendet Anfragen an die Server-Logikschicht und aktualisiert die Ansicht entsprechend.
+- **Technologien:** Kotlin (gemeinsame Logik für alle Plattformen), RESTful APIs
+
+### Kommunikation-Schicht
+- **Aufgaben:** Handhabt die Kommunikation zwischen Client und Server über das Netzwerk.
+- **Technologien:** HTTP, WebSocket (für Echtzeitaktualisierungen)
+
 
 
 ### 3.2.1 Technologieauswahl
