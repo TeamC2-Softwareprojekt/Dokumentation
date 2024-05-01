@@ -277,9 +277,9 @@ noch weiter detailliert und in Softwarebausteine aufgeteilt.
 
 ## 3.6 Entwurf
 
-**TODO**
+Natürlich! Hier ist eine erweiterte Version des ER-Diagramms mit zusätzlichen Tabellen und Beziehungen:
 
-* Detaillierte UML-Diagramme für relevante Softwarebausteine
+### ERM 
 
 
 ## 3.7 Fehlerbehandlung
