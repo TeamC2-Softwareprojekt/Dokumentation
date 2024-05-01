@@ -1,23 +1,36 @@
-# Anforderungs- und Entwurfsspezifikation ("Pflichtenheft")
+# Pflichtenheft - TeamC2
 
-# 0 Titelseite
-* ParkBlazer
-* Tim Röckemann, Marvin Petschulat, Jan-Ole Löffler, Timo Haverich, Edwin Dik, Bent Schöne, Mattis Wellenbüscher
+* **Projektname:** ParkBlazer
+* **Product Owner:** Tim Röckemann, Marvin Petschulat, Jan-Ole Löffler, Timo Haverich, Edwin Dik, Bent Schöne, Mattis Wellenbüscher
 * [Link zum Source Code Repository](https://github.com/TeamC2-Softwareprojekt)
-* Inhaltsverzeichnis
+
+
+
+
 
 # 1 Einführung
 
 ## 1.1 Beschreibung
 Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaffen, die die Art und Weise revolutioniert, wie Autofahrer Parkplätze finden und nutzen. Wir streben danach, Verkehrsstaus und Umweltbelastungen in urbanen Gebieten zu reduzieren, indem wir eine Community-basierte Lösung bieten, die es Nutzern ermöglicht, unentdeckte Parkplätze zu finden und private Parkplätze zu mieten bzw. vermieten. **ParkBlazer** wird durch den Community-basierten Ansatz die Parkplatzsuche vereinfachen und gleichzeitig die Verfügbarkeit von Parkplätzen erhöhen. Durch die Möglichkeit, private Parkplätze über einen bestimmten Zeitraum von anderen Nutzern mieten zu können, schafft **ParkBlazer** eine flexible und kostengünstige Alternative zum herkömmlichen Parken. Dies ermöglicht es Nutzern, ihren Parkbedarf je nach Bedarf anzupassen und gleichzeitig privaten Parkplatzanbietern die Möglichkeit zu geben, ihre ungenutzten Parkplätze zu monetarisieren und die Parkraumnutzung in städtischen Gebieten zu optimieren. Unsere Plattform wird auf Benutzerfreundlichkeit, Zuverlässigkeit und Innovation setzen, um ein nahtloses und effizientes Parkerlebnis zu gewährleisten und die Lebensqualität in städtischen Gebieten zu verbessern.
 
+
+
+
+
+
 # 2 Anforderungen
 
 ## 2.1 Stakeholder
-| Funktion / Relevanz | Name | Kontakt / Verfügbarkeit | Wissen | Interessen / Ziele |
-|---|---|---|---|---|
-| Product Owner, Server + DB | Timo Haverich | timo.haverich@hsbi.de |
-| UX/UI Designer, Soundentwickeler, App-Team | Marvin Petschulat | marvin.petschulat@hsbi.de | Java, Python, C++, Design, Soundentwicklung | Kotlin, Appentwickelung, Design, Soundentwicklung |
+| Funktion / Relevanz | Name | Kontakt / Verfügbarkeit |
+|---|---|---|
+| Product Owner, DevOps-Engineer, Backend-Entwickler | Timo Haverich | timo.haverich@hsbi.de |
+| Product Owner, UX/UI Designer, Soundentwickeler, Frontend-Entwickler (App-Team) | Marvin Petschulat | marvin.petschulat@hsbi.de |
+| Product Owner, Frontend-Entwickler (Web-Team), DevOps-Engineer | Edwin Dik | edwin.dik@hsbi.de |
+| Product Owner, Frontend-Entwickler (Web-Team) | Bent Schöne | bent.schoene@hsbi.de |
+| Product Owner, Frontend-Entwickler (Web-Team) | Mattis Wellenbüscher | mattis.wellenbuescher@hsbi.de |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team), DevOps-Engineer | Tim Röckemann | tim.roeckemann@hsbi.de |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team) | Jan-Ole Löffler | jan-ole_timo.loeffler@hsbi.de |
+
 
 
 ## 2.2 Funktionale Anforderungen
@@ -31,15 +44,13 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
     - Parkplatz bewerten
 
 - Definition der Akteure:
-    - registrierter Benutzer: Benutzer des Systems, der auf alle Funktionen zugreifen kann.
-    - anonymer Benutzer: Benutzer des Systems, der auf frei zugängliche Funktionen zugreifen kann (Parkplatzsuche).
+    - Registrierter Benutzer: Benutzer des Systems, der auf alle Funktionen zugreifen kann.
+    - Anonymer Benutzer: Benutzer des Systems, der auf frei zugängliche Funktionen zugreifen kann (Parkplatzsuche).
 
-- Definition von Begriffen der Fachdomäne:
-    - Profil: Eine Sammlung von Benutzerinformationen, einschließlich persönlicher Daten und Präferenzen.
-    - Bestellung: Ein Auftrag, der vom Benutzer aufgegeben wird, um Produkte oder Dienstleistungen zu erhalten.
 
 
 ## 2.3 Nicht-funktionale Anforderungen
+
 ### 2.3.1 Rahmenbedingungen
 - **Kollaborative Softwareentwicklung mit Github im Team:**
   - Einrichten eines gemeinsamen Github-Repositories für das Projekt.
@@ -71,6 +82,7 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
   - Zusammenarbeit und Unterstützung anderer Teammitglieder, um gemeinsame Ziele zu erreichen und eine positive Arbeitsumgebung zu fördern.
 
 
+
 ### 2.3.2 Betriebsbedingungen
 - Das Softwareprodukt kann als Webanwendung, mobile Anwendung, eingebettete Software oder Desktop-Software realisiert werden.
 - Es kann in einer oder mehreren Programmiersprachen implementiert werden, je nach den Anforderungen und Präferenzen des Teams.
@@ -78,6 +90,7 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
 - Die Verwendung einer Datenbank ist erforderlich, um Daten zu speichern und abzurufen.
 - Die Entwicklung von mehreren "Frontends" für das Softwareprodukt wird empfohlen, insbesondere bei einem Team von mehr als 2 Personen.
 - Diese "Frontends" können webbasiert, für mobile Endgeräte oder für Sprachassistenten sein, um eine breitere Benutzerbasis zu erreichen und die Benutzererfahrung zu verbessern.
+
 
 
 ### 2.3.3 Qualitätsmerkmale
@@ -105,19 +118,44 @@ Stabilität |-|x|-|-|
 Prüfbarkeit |X|-|-|-|
 
 
+
 ## 2.4 Graphische Benutzerschnittstelle
+**Login**
+![](media/App_Mockup_page-0003.jpg)
 
-**TODO** 
+**Starseite**
+![](media/App_Mockup_page-0002.jpg)
 
+**Neuer Parkplatz: Suche der Adresse**
+![](media/App_Mockup_page-0001.jpg)
 
-****MOCKUPS****
-* GUI-Mockups passend zu User Stories
-* Screens mit Überschrift kennzeichnen, die im Inhaltsverzeichnis zu sehen ist
-* Unter den Screens darstellen (bzw. verlinken), welche User Stories mit dem Screen
-abgehandelt werden
-* Modellierung der Navigation zwischen den Screens der GUI-Mockups als Zustandsdiagramm
-* Mockups für unterschiedliche Akteure
-* Mockups für unterschiedliche Frontends (Mobil, Web, Desktop)
+**Neuer Parkplatz: Hinzufügen**
+![](media/App_Mockup_page-0004.jpg)
+
+**Neuer Parkplatz: Details hinzufügen**
+![](media/App_Mockup_page-0005.jpg)
+
+**Parkplatz suchen: Adresse**
+![](media/App_Mockup_page-0006.jpg)
+
+**Parkplatz suchen: Auswahl der Parkplätze**
+![](media/App_Mockup_page-0007.jpg)
+
+**Parkplatz suchen: Parkplatzdetails**
+![](media/App_Mockup_page-0008.jpg)
+
+**Parkplatz vermieten: Adresse suchen**
+![](media/App_Mockup_page-0009.jpg)
+
+**Parkplatz vermieten: Parkplatz hinzufügen**
+![](media/App_Mockup_page-0010.jpg)
+
+**Parkplatz vermieten: Parkplatzdetails und Verifizierung**
+![](media/App_Mockup_page-0011.jpg)
+
+**Profil: Berwertungen**
+![](media/App_Mockup_page-0012.jpg)
+
 
 
 ## 2.5 Anforderungen im Detail
@@ -140,140 +178,124 @@ abgehandelt werden
 | Mobilitätsanalyst | Trends in der Parkplatznutzung analysieren      | datengestützte Entscheidungen für Stadtplanung treffen können | Die App liefert detaillierte Statistiken und Nutzungsmuster in Echtzeit. |
 
 
+
+
+
+
 # 3 Technische Beschreibung
+
 ## 3.1 Systemübersicht / Systemarchitekturdiagramm
 ![](media/Systemarchitekturdiagramm.jpg)
 
 
-## 3.2 Softwarearchitektur
-## Server
-Der Server ist das zentrale Element der Plattform, das die Geschäftslogik und die Datenhaltung verwaltet.
 
-### Web-Schicht
+## 3.2 Softwarearchitektur
+### Server
+Der Server ist das zentrale Element der Plattform, das die Geschäftslogik und die Datenhaltung verwaltet. Der Server greift auf die verwendeten APIs und Datenbanken zu und sendet die Daten zurück an den anfordernden Client.
+
+#### Logik-Schicht
 - **Aufgaben:** Empfängt und verarbeitet Anfragen von Clients über das Web.
 - **Technologien:** Node.js, Express.js
 
-### Logik-Schicht
-- **Aufgaben:** Verarbeitet Geschäftslogik, wie das Management von Parkplatzdaten, Nutzeranfragen und Transaktionen.
-- **Technologien:** Kotlin (Java Spring Boot, Ktor)
-
-### Persistenz-Schicht
-- **Aufgaben:** Speichert und verwaltet Daten langfristig, z. B. Parkplatzinformationen, Nutzerprofile, Transaktionshistorie.
-- **Technologien:** MongoDB, PostgreSQL
-
-## Client
+### Client
 Der Client ist die Benutzeroberfläche, über die Nutzer mit der PARCAR-Plattform interagieren.
 
-### UI-Schicht
-- **Aufgaben:** Darstellung der Benutzeroberfläche auf verschiedenen Plattformen (z. B. Desktop, Web, Mobile).
-- **Technologien:** Kotlin Multiplatform Mobile (KMM) für Mobile (Android, iOS), Kotlin/JS für Web, Kotlin/Native für Desktop, Leaflet oder MapTiler für Kartenintegration.
+#### UI-Schicht
+- **Aufgaben:** Darstellung der Benutzeroberfläche auf verschiedenen Plattformen (Web, Mobile).
+- **Technologien:** Kotlin Multiplatform Mobile (KMM) für Mobile (Android, iOS), Kotlin/JS für Web, Leaflet oder MapTiler für Kartenintegration.
 
-### Logik-Schicht
-- **Aufgaben:** Verarbeitet Benutzerinteraktionen, sendet Anfragen an die Server-Logikschicht und aktualisiert die Ansicht entsprechend.
-- **Technologien:** Kotlin (gemeinsame Logik für alle Plattformen), RESTful APIs
-
-### Kommunikation-Schicht
+#### Kommunikation-Schicht
 - **Aufgaben:** Handhabt die Kommunikation zwischen Client und Server über das Netzwerk.
-- **Technologien:** HTTP, WebSocket (für Echtzeitaktualisierungen)
+- **Technologien:** HTTP, WebSocket(für Echtzeitaktualisierungen), Express.js
+
+#### Logik-Schicht
+- **Aufgaben:** Verarbeitet Geschäftslogik, wie das Management von Parkplatzdaten, Nutzeranfragen und Transaktionen.
+- **Technologien:** Kotlin (Java Spring Boot, Ktor) oder Flutter
 
 
 
 ### 3.2.1 Technologieauswahl
 - DB: MySQL
-- Server: Node.js
-- Clients: Kotlin, ...
-- Bibliotheken: Leaflet oder MapTiler, ...
+- Server: Node.js, Express.js
+- Clients: Kotlin Multiplatform Mobile (KMM) für Mobile (Android, iOS), Kotlin/JS für Web, (Flutter), Swift
+- Bibliotheken: Leaflet oder MapTiler für Kartenintegration
+
 
 
 ## 3.3 Schnittstellen
 - Leaflet oder MapTiler -> Server (Backend) -> Clients
 - Datenbank -> Server (Backend) -> Clients
+- Andere APIs? -> Server (Backend) -> Clients
+
 
 
 ## 3.3.1 Ereignisse
 1. **Ereignistyp: Parkplatz Verfügbarkeit**
    - **Attribute:**
-     - Ereignistyp: "Parkplatz Verfügbar"
-     - Zeitstempel: Datum und Uhrzeit der Verfügbarkeitsmeldung
-     - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
-     - Standort: Geographische Lage des Parkplatzes
-     - Verfügbarkeit: Verfügbar/Nicht verfügbar
+      - Ereignistyp: "Parkplatz Verfügbar"
+      - Zeitstempel: Datum und Uhrzeit der Verfügbarkeitsmeldung
+      - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
+      - Standort: Geographische Lage des Parkplatzes
 
-2. **Ereignistyp: Parkplatz Reservierung**
+2. **Ereignistyp: Parkplatz Reservierung (Privat)**
    - **Attribute:**
-     - Ereignistyp: "Parkplatz Reserviert"
-     - Zeitstempel: Datum und Uhrzeit der Reservierung
-     - Benutzer-ID: Identifikation des Nutzers, der reserviert hat
-     - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
-     - Dauer: Reservierungszeitraum
+      - Ereignistyp: "Parkplatz Reserviert"
+      - Zeitstempel: Datum und Uhrzeit der Reservierung
+      - Benutzer-ID: Identifikation des Nutzers, der reserviert hat
+      - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
+      - Dauer: Reservierungszeitraum
 
-3. **Ereignistyp: Parkplatz Miete**
+3. **Ereignistyp: Parkplatz Miete (Privat)**
    - **Attribute:**
-     - Ereignistyp: "Parkplatz Gemietet"
-     - Zeitstempel: Datum und Uhrzeit der Mietbeginn
-     - Benutzer-ID: Identifikation des Mieters
-     - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
-     - Mietdauer: Zeitraum der Miete
+      - Ereignistyp: "Parkplatz Gemietet"
+      - Zeitstempel: Datum und Uhrzeit der Mietbeginn
+      - Benutzer-ID: Identifikation des Mieters
+      - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
+      - Mietdauer: Zeitraum der Miete
 
 4. **Ereignistyp: Neue Parkplatzbewertung**
    - **Attribute:**
-     - Ereignistyp: "Bewertung Hinzugefügt"
-     - Zeitstempel: Datum und Uhrzeit der Bewertung
-     - Benutzer-ID: Identifikation des Bewertenden
-     - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
-     - Bewertung: Sternbewertung und Kommentar
+      - Ereignistyp: "Bewertung Hinzugefügt"
+      - Zeitstempel: Datum und Uhrzeit der Bewertung
+      - Benutzer-ID: Identifikation des Bewertenden
+      - Parkplatz-ID: Eindeutige Identifikation des Parkplatzes
+      - Bewertung: Sternbewertung und Kommentar
 
 5. **Ereignistyp: Benutzerlogin**
    - **Attribute:**
-     - **Ereignistyp**: "Benutzerlogin"
-     - **Zeitstempel**: Datum und Uhrzeit des Logins
-     - **Benutzer-ID**: Eindeutige Identifikation des Nutzers
-     - **Erfolg**: Gibt an, ob der Login-Versuch erfolgreich war oder nicht
-     - **IP-Adresse**: IP-Adresse des Nutzers zum Zeitpunkt des Logins
-     - **Gerät**: Informationen über das Gerät, von dem aus der Login erfolgte (z.B. Betriebssystem, Browser)
+      - **Ereignistyp**: "Benutzerlogin"
+      - **Zeitstempel**: Datum und Uhrzeit des Logins
+      - **Benutzer-ID**: Eindeutige Identifikation des Nutzers
+      - **Erfolg**: Gibt an, ob der Login-Versuch erfolgreich war oder nicht
+      - **IP-Adresse**: IP-Adresse des Nutzers zum Zeitpunkt des Logins
+      - **Gerät**: Informationen über das Gerät, von dem aus der Login erfolgte (z.B. Betriebssystem, Browser)
 
 6. **Ereignistyp: Benutzerregistrierung**
    - **Attribute:**
-     - **Ereignistyp**: "Benutzerregistrierung"
-     - **Zeitstempel**: Datum und Uhrzeit der Registrierung
-     - **Benutzer-ID**: Eindeutige Identifikation des neu registrierten Nutzers
-     - **Erfolg**: Gibt an, ob die Registrierung erfolgreich war
-     - **IP-Adresse**: IP-Adresse des Nutzers zum Zeitpunkt der Registrierung
-     - **Quelle**: Woher der Nutzer kam (z.B. Marketingkampagne, Suchmaschine)
+      - **Ereignistyp**: "Benutzerregistrierung"
+      - **Zeitstempel**: Datum und Uhrzeit der Registrierung
+      - **Benutzer-ID**: Eindeutige Identifikation des neu registrierten Nutzers
+      - **Erfolg**: Gibt an, ob die Registrierung erfolgreich war
+      - **IP-Adresse**: IP-Adresse des Nutzers zum Zeitpunkt der Registrierung
 
 7. **Ereignistyp: Benutzerdatenaktualisierung**
    - **Attribute:**
-     - **Ereignistyp**: "Benutzerdatenaktualisierung"
-     - **Zeitstempel**: Datum und Uhrzeit der Aktualisierung
-     - **Benutzer-ID**: Eindeutige Identifikation des Nutzers
-     - **Geänderte Felder**: Liste der aktualisierten Datenfelder (z.B. E-Mail-Adresse, Telefonnummer)
-     - **IP-Adresse**: IP-Adresse des Nutzers zum Zeitpunkt der Änderung
+      - **Ereignistyp**: "Benutzerdatenaktualisierung"
+      - **Zeitstempel**: Datum und Uhrzeit der Aktualisierung
+      - **Benutzer-ID**: Eindeutige Identifikation des Nutzers
+      - **Geänderte Felder**: Liste der aktualisierten Datenfelder (z.B. E-Mail-Adresse, Telefonnummer)
 
 
 
 ## 3.4 Datenmodell
+![](media/ER-Diagramm.jpg)
 
-**TODO**
-
-* Konzeptionelles Analyseklassendiagramm (logische Darstellung der Konzepte der Anwendungsdomäne)
-* Modellierung des physikalischen Datenmodells
-* RDBMS: ER-Diagramm bzw. Dokumentenorientiert: JSON-Schema
 
 
 ## 3.5 Abläufe
-* Aktivitätsdiagramme für relevante Use Cases
-* Aktivitätsdiagramm für den Ablauf sämtlicher Use Cases
-* Aktivitätsdiagramm mit Swimlanes sind in der Regel hilfreich für die Darstellung der Interaktion von Akteuren der Use Cases / User Stories
-* Abläufe der Kommunikation von Rechnerknoten (z.B. Client/Server) in einem Sequenz- oder Aktivitätsdiagramm darstellen
-* Modellieren Sie des weiteren die Diagramme, die für das (eigene) Verständnis des Softwaresystems hilfreich sind.
 
+=> Folgt
 
-## 3.6 Entwurf
-
-Natürlich! Hier ist eine erweiterte Version des ER-Diagramms mit zusätzlichen Tabellen und Beziehungen:
-
-### ERM 
-![](media/ER-Diagramm.jpg)
 
 
 ## 3.7 Fehlerbehandlung
@@ -302,7 +324,7 @@ Natürlich! Hier ist eine erweiterte Version des ER-Diagramms mit zusätzlichen 
 ### Fachliche Fehler
 1. **Fehler: Kunde nicht gefunden**
    - **Fehlercode:** 2001
-   - **Beschreibung:** Die angegebene Kunden-ID existiert nicht in der Datenbank.
+   - **Beschreibung:** Die angegebene User-ID existiert nicht in der Datenbank.
 
 2. **Fehler: Parkplatz nicht verfügbar**
    - **Fehlercode:** 2002
@@ -367,93 +389,59 @@ Natürlich! Hier ist eine erweiterte Version des ER-Diagramms mit zusätzlichen 
      - **Erwartetes Ergebnis**: Das UI soll alle Benutzereingaben korrekt an das Backend weiterleiten und Feedback über den Status der Reservierung anzeigen.
 
 
+
+
+
+
 # 4 Projektorganisation
+
 ## 4.1 Annahmen
 * Verwendete Technologien:
-    - DB: MySQL
-    - Server: Node.js
-    - Clients: Kotlin, ...
-    - Bibliotheken: Leaflet oder MapTiler, ...
+    - DB: MySQL, SQL
+    - Server: Node.js, Express.js
+    - Clients: Kotlin Multiplatform Mobile (KMM) für Mobile (Android, iOS), Kotlin/JS für Web
+    - Bibliotheken: Leaflet oder MapTiler für Kartenintegration, ...
 * Repositories
     - Backend (Server)
-    - Clients
+    - Clients (App, Web)
     - Dokumentation
 
-* Einschränkungen, Betriebsbedingungen und Faktoren, die die Entwicklung beeinflussen
-(Betriebssysteme, Entwicklungsumgebung)
-* Interne Qualitätsanforderungen (z.B. Softwarequalitätsmerkmale wie z.B.
-Erweiterbarkeit)
+* Einschränkungen, Betriebsbedingungen und Faktoren, die die Entwicklung beeinflussen (Betriebssysteme, Entwicklungsumgebung)
+   * IOS-Client: Für die Entwicklung in Swif ist eventuell ein Mac nötig
+
 
 
 ## 4.2 Verantwortlichkeiten
-* Zuordnung von Personen zu Softwarebausteinen aus Kapitel "Systemübersicht" und
-"Softwarearchitektur"
-* Rollendefinition und Zuordnung
+| Funktion / Relevanz | Name | Kontakt / Verfügbarkeit |
+|---|---|---|
+| Product Owner, DevOps-Engineer, Backend-Entwickler | Timo Haverich | timo.haverich@hsbi.de |
+| Product Owner, UX/UI Designer, Soundentwickeler, Frontend-Entwickler (App-Team) | Marvin Petschulat | marvin.petschulat@hsbi.de |
+| Product Owner, Frontend-Entwickler (Web-Team), DevOps-Engineer | Edwin Dik | edwin.dik@hsbi.de |
+| Product Owner, Frontend-Entwickler (Web-Team) | Bent Schöne | bent.schoene@hsbi.de |
+| Product Owner, Frontend-Entwickler (Web-Team) | Mattis Wellenbüscher | mattis.wellenbuescher@hsbi.de |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team), DevOps-Engineer | Tim Röckemann | tim.roeckemann@hsbi.de |
+| Product Owner, UX/UI Designer, Frontend-Entwickler (App-Team) | Jan-Ole Löffler | jan-ole_timo.loeffler@hsbi.de |
 
-| Softwarebaustein | Person(en) |
-|----------|-----------|
-| Komponente A | Thomas Mustermann |
-
-
-### Rollen
-Überlegen Sie, ob es sinnvoll ist, wenn Sie die Rollen für
-Product-Owner und Scrum-Master vergeben, wobei Sie bedenken
-sollten, ob diese Rollen über den gesamten Projektzeitraum
-aktiv sein werden. Neben diesen Rollen können folgende Rollen
-sinnvoll sein:
-
-#### Softwarearchitekt
-Entwirft den Aufbau von Softwaresystemen und trifft Entscheidungen über das Zusammenspiel
-der Softwarebausteine.
-
-#### Frontend-Entwickler
-Entwickelt graphische oder andere Benutzerschnittstellen, insbesondere das Layout einer
-Anwendung.
-
-#### Backend-Entwickler
-Implementiert die funktionale Logik der Anwendung. Hierbei werden zudem diverse
-Datenquellen und externe Dienste integriert und für die Anwendung bereitgestellt.
-
-#### DevOps-Engineer
-Ist für die Repositories und das Deployment verantwortlich.
-
-
-### Rollenzuordnung
-| Name | Rolle |
-|----------|-----------|
-| Tim Röckemann | App-Team |
-| Marvin Petschulat | App-Team |
-| Jan-Ole Löffler | App-Team |
-| Timo Haverich | Backend-Team |
-| Edwin Dik | Web-Team |
-| Bent Schöne | Web-Team |
-| Mattis Wellenbüscher | Web-Team |
 
 
 ## 4.3 Grober Projektplan
-- Meilensteine
 
 ### Meilensteine
-* KW 43 (21.10)
-* Abgabe Pflichtenheft
-* KW 44 (28.10) / Projekt aufsetzen
-* Repository Struktur
-* KW 45 (4.11) / Implementierung
-* Implementierung #3 (Final)
-* KW 48 (18.12) / Abnahmetests
-* manuelle Abnahmetests
-* Präsentation / Software-Demo
 
+* 13.05.2024
+   - Anzeigen einer Karte aus einer API auf allen Clients
 
+* 10.06.2024
+   - Authentifizierung der User und basierend darauf Parkplätze suchen, anlegen und bewerten
 
+* 24.06.2024
+   - Parkplätze mieten und vermieten
 
+* 01.07.2024
+   - Anpassung UX/UI der Clients und Optimierungen
 
+* 08.07.2024
+   - Abnahmetests
 
-
-# 5 Anhänge
-## 5.1 Glossar
-* Definitionen, Abkürzungen, Begriffe
-## 5.2 Referenzen
-* Handbücher, Gesetze
-* z.B. Datenschutzgrundverordnung
-## 5.3 Index
+* 15.07. – 26.07.2024
+   - Präsentation 
