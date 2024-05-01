@@ -141,22 +141,8 @@ abgehandelt werden
 
 
 # 3 Technische Beschreibung
-## 3.1 Systemübersicht
-
-**TODO** 
-
-* Systemarchitekturdiagramm ("Box-And-Arrow" Diagramm)
-* Kommunikationsprotokolle, Datenformate
-Das Diagramm in Kapitel "Systemübersicht" ist statisch und nicht dynamisch und stellt
-daher keine Abläufe dar. Abläufe werden im Kapitel "Abläufe" dargestellt. Im Kapitel
-"Systemübersicht" soll genau ein Diagramm dargstellt werden. Das "Box-and-Arrow"
--Diagramm
-soll als Systemarchitekturdiagramm eine abstrakte Übersicht über das Softwaresystem
-geben. Dazu stellt es die Rechnerknoten und deren Kommunikationsbeziehungen (Protokoll
-(z.B. HTTP), Datenformat (z.B. JSON)) dar. Also Rechtecke und gerichtete Pfeile. Ähnlich
-einem UML-Deployment-Diagramm, aber noch abstrakter, denn es zeigt nicht die Verteilung
-der Softwarebausteine auf die Rechnerknoten. So erlangt der Leser einen schnellen und
-guten Überblick über das Softwaresystem.
+## 3.1 Systemübersicht / Systemarchitekturdiagramm
+![](media/Systemarchitekturdiagramm.jpg)
 
 
 ## 3.2 Softwarearchitektur
@@ -287,6 +273,7 @@ Der Client ist die Benutzeroberfläche, über die Nutzer mit der PARCAR-Plattfor
 Natürlich! Hier ist eine erweiterte Version des ER-Diagramms mit zusätzlichen Tabellen und Beziehungen:
 
 ### ERM 
+![](media/ER-Diagramm.jpg)
 
 
 ## 3.7 Fehlerbehandlung
