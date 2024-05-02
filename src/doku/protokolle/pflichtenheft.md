@@ -157,7 +157,10 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
 ![](media/App_Mockup_page-0011.jpg)
 
 **Profil: Berwertungen**
+
 ![](media/App_Mockup_page-0012.jpg)
+
+
 
 ### Web
 **Startseite**
