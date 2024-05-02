@@ -121,6 +121,8 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
 
 
 ## 2.4 Graphische Benutzerschnittstelle
+
+### App
 **Login**
 ![](media/App_Mockup_page-0003.jpg)
 
@@ -156,6 +158,18 @@ Die Produktvision von **ParkBlazer** ist es, eine innovative Plattform zu schaff
 
 **Profil: Berwertungen**
 ![](media/App_Mockup_page-0012.jpg)
+
+### Web
+**Startseite**
+![](media/Startseite.png)
+**Filter**
+![](media/Filter.png)
+**Parkplatz Details**
+![](media/Parkplatz.png)
+**Neuen Parkplatz hinzufügen**
+![](media/NeuerParkplatz.png)
+**Privaten Parkplatz hinzufügen**
+![](media/PrivaterParkplatz.png)
 
 
 
