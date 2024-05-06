@@ -11,7 +11,7 @@
     - [Zeiten Mattis](src/doku/zeiten/mattis.md)
 
 - Protokolle
-
+  - [Protokoll Meetings](src/doku/protokolle/meetings.md)
   - [Protokoll Softwareproduktidee](src/doku/protokolle/softwareproduktidee.md)
   - [Protokoll Pflichtenheft](src/doku/protokolle/pflichtenheft.md)
 
