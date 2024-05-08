@@ -55,7 +55,7 @@ Das Meeting war entscheidend für die reibungslose Fortsetzung unseres Projekts.
 
 ### Agenda:
 - Zuweisung von Aufgaben und Verantwortlichkeiten im Team gemäß der technischen Spezifikation 
-- Besprechungen zur Überprüfung des Fortschritts 4. Schreiben und Durchführen von automatisierten Tests, um die Fehlerfreiheit des Systems - Aufteilung der Verantwortlichkeiten zur Implementierung des Prototypens
+- Überprüfung des Fortschritts
 
 ### Besprechung:
 **Verantwortlichkeiten der Implementierung:**
@@ -63,7 +63,7 @@ Das Meeting war entscheidend für die reibungslose Fortsetzung unseres Projekts.
 - Parkplatz aus DB in Karte anzeigen (Markierung): (Timo), Marvin Petschulat, Mattis Wellenbüscher
 - Suche (Umkreis) und anzeige der Parkplätze in Liste: (Timo), Edwin Dik, Bent Schöne
 
-Alle Teams können unabhängig voneinander die ersten Implementierungen vornehmen. Timo Haverich ist als Backend-Developer in allen Temas inbegriffen, damit die Schnittstelle zur DB gewährleistet wird. Alle Teams sollen zunächst Issues im Kanban Board erstellen. Die nächste Besprechung soll am 13.05.2024 stattfinden.
+Alle Teams können unabhängig voneinander die ersten Implementierungen vornehmen. Timo Haverich ist als Backend-Developer in allen Teams, damit die Schnittstelle zur DB gewährleistet wird. Alle Teams sollen zunächst Issues im Kanban Board erstellen. Die nächste Besprechung soll am 13.05.2024 stattfinden.
 
 ### Nächste Schritte:
 - Implementierung der ersten Funktionalitäten im Client und auf dem Server.
