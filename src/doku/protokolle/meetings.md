@@ -45,35 +45,30 @@ Das Meeting war entscheidend für die reibungslose Fortsetzung unseres Projekts.
 --- 
 
 
-## Daily-Meeting: 06.05.2024 (Protokollant: Timo Haverich)
+## Daily-Meeting: 08.05.2024 (Protokollant: Timo Haverich)
 ### Teilnehmer:
 - Tim Röckemann
-- Marvin Petschulat,
-- Jan-Ole Löffler
 - Timo Haverich
 - Edwin Dik
 - Bent Schöne 
 - Mattis Wellenbüscher
 
 ### Agenda:
-- Abc.
-- Abc.
-- Abc.
+- Zuweisung von Aufgaben und Verantwortlichkeiten im Team gemäß der technischen Spezifikation 
+- Besprechungen zur Überprüfung des Fortschritts 4. Schreiben und Durchführen von automatisierten Tests, um die Fehlerfreiheit des Systems - Aufteilung der Verantwortlichkeiten zur Implementierung des Prototypens
 
 ### Besprechung:
-**H2:**
-abc.
+**Verantwortlichkeiten der Implementierung:**
+- Authentifizierung / Benutzerprofil: (Timo), Jan-Ole Löffler, Tim Röckemann
+- Parkplatz aus DB in Karte anzeigen (Markierung): (Timo), Marvin Petschulat, Mattis Wellenbüscher
+- Suche (Umkreis) und anzeige der Parkplätze in Liste: (Timo), Edwin Dik, Bent Schöne
 
-**H2:**
-abc.
-
-**H2:**
-abc.
+Alle Teams können unabhängig voneinander die ersten Implementierungen vornehmen. Timo Haverich ist als Backend-Developer in allen Temas inbegriffen, damit die Schnittstelle zur DB gewährleistet wird. Alle Teams sollen zunächst Issues im Kanban Board erstellen. Die nächste Besprechung soll am 13.05.2024 stattfinden.
 
 ### Nächste Schritte:
-- Abc.
-- Abc.
-- Regelmäßige Updates und Fortschrittsberichte in den kommenden Weekly-Meetings.
+- Implementierung der ersten Funktionalitäten im Client und auf dem Server.
+- Issues und Milestones erstellen.
+- Besprechung am 13.05.2024.
 
 ### Schlussbemerkung:
-Lorem ipsum.
+Die heutige Besprechung hat wichtige Fortschritte in Bezug auf die Zuweisung von Aufgaben und Verantwortlichkeiten im Team erzielt. Wir haben klare Verantwortlichkeiten für die Implementierung verschiedener Funktionen definiert und sind bereit, unabhängig voneinander mit den ersten Umsetzungen zu beginnen. Die Priorisierung der Authentifizierung und des Benutzerprofils, der Anzeige von Parkplätzen auf der Karte sowie der Suchfunktion und Anzeige von Parkplätzen in einer Liste wurde festgelegt. Timo Haverich wird als Backend-Developer in allen Teams eingebunden, um die Schnittstelle zur Datenbank sicherzustellen. Als nächste Schritte werden die Implementierung der ersten Funktionalitäten, das Erstellen von Issues und Milestones sowie die Vorbereitung auf die nächste Besprechung am 13.05.2024 durchgeführt.

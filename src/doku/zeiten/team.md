@@ -7,5 +7,5 @@
 |   **01.05.2024**   |         Pflichtenheft fertigstellen und alle Dateien einfügen                          | 3 Stunden  |
 |   **02.05.2024**   |                  Präsentation Pflichtenheft                 | 1,5 Stunden  |
 |   **06.05.2024**   |     Weekly: Technologieauswahl und Planung nächste Schritte                              | 2 Stunden  |
-|   **..2024**   |                                   |  Stunden  |
+|   **08.05.2024**   |              Meeting: Aufteilung der Implementierungsaufgaben                    | 1,5 Stunden  |
 |   **..2024**   |                                   |  Stunden  |
