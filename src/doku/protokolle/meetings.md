@@ -8,7 +8,7 @@
 --- 
 
 
-## Daily-Meeting: 06.05.2024 (Protokollant: Timo Haverich)
+## Weekly-Meeting: 06.05.2024 (Protokollant: Timo Haverich)
 ### Teilnehmer:
 - Tim Röckemann
 - Marvin Petschulat,
@@ -45,7 +45,7 @@ Das Meeting war entscheidend für die reibungslose Fortsetzung unseres Projekts.
 --- 
 
 
-## Daily-Meeting: 08.05.2024 (Protokollant: Timo Haverich)
+## Weekly-Meeting: 08.05.2024 (Protokollant: Timo Haverich)
 ### Teilnehmer:
 - Tim Röckemann
 - Timo Haverich
@@ -72,3 +72,41 @@ Alle Teams können unabhängig voneinander die ersten Implementierungen vornehme
 
 ### Schlussbemerkung:
 Die heutige Besprechung hat wichtige Fortschritte in Bezug auf die Zuweisung von Aufgaben und Verantwortlichkeiten im Team erzielt. Wir haben klare Verantwortlichkeiten für die Implementierung verschiedener Funktionen definiert und sind bereit, unabhängig voneinander mit den ersten Umsetzungen zu beginnen. Die Priorisierung der Authentifizierung und des Benutzerprofils, der Anzeige von Parkplätzen auf der Karte sowie der Suchfunktion und Anzeige von Parkplätzen in einer Liste wurde festgelegt. Timo Haverich wird als Backend-Developer in allen Teams eingebunden, um die Schnittstelle zur Datenbank sicherzustellen. Als nächste Schritte werden die Implementierung der ersten Funktionalitäten, das Erstellen von Issues und Milestones sowie die Vorbereitung auf die nächste Besprechung am 13.05.2024 durchgeführt.
+
+
+--- 
+
+
+## Weekly-Meeting: 13.05.2024 (Protokollant: Timo Haverich)
+### Teilnehmer:
+- Tim Röckemann
+- Marvin Petschulat
+- Timo Haverich
+- Edwin Dik
+- Bent Schöne 
+- Mattis Wellenbüscher
+
+### Agenda:
+- Besprechung der Fortschritte der Aufgaben
+- Klärung von Fragen
+- Planung der nächsten Schritte
+- Besprechung von Problemen
+
+### Besprechung:
+- Vorstellung aller Implementierungen
+    - Bent und Edwin präsentierten ihre Arbeit an der Parkplatzliste.
+    - Marvin stellte seine Kartenimplementierung mit Markern vor.
+    - Timo gab einen Überblick über den Stand der Serverentwicklung.
+
+Nach der Vorstellung der Implementierungen diskutierten wir die noch offenen Punkte und die nächsten Schritte.
+
+### Nächste Schritte:
+- Server-Bereitstellung: Implementierung der Funktionalitäten zur Anzeige von Parkplätzen mit allen relevanten Informationen, Erstellung und Löschung von Parkplätzen, Implementierung von Login und Registrierung.
+- Dynamische Befüllung der Karte mit Markern, um Parkplätze anzuzeigen.
+- Dynamische Befüllung der Liste mit Markern, um Parkplätze anzuzeigen.
+- Verknüpfung der Liste und der Karte, um eine nahtlose Benutzererfahrung zu gewährleisten.
+
+### Schlussbemerkung:
+Nach einer produktiven Besprechung sind wir mit einem klaren Fahrplan für die nächsten Schritte ausgestattet. Jeder hat seine Implementierung vorgestellt, was zu einem umfassenden Verständnis des aktuellen Standes geführt hat. Die Fortschritte von Bent und Edwin bei der Parkplatzliste sowie Marvins Arbeit an der Kartenimplementierung wurden präsentiert. Timos Fortschritte bei der Serverentwicklung sind ebenfalls vorgestellt worden.
+
+Wir haben identifiziert, dass die Priorität nun auf der Server-Bereitstellung liegt, gefolgt von der dynamischen Befüllung der Karte und Liste mit Markern. Zusätzlich ist es wichtig, die beiden Darstellungsformen miteinander zu verknüpfen, um eine nahtlose Benutzererfahrung zu gewährleisten.

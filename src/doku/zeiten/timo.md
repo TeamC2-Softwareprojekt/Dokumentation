@@ -12,3 +12,6 @@
 |   **07.05.2024**   |         Server: Implementierung Login und Registrierung                         | 2 Stunden  |
 |   **08.05.2024**   |          Protokoll 06.05.204 Weekly und Planung Team-Meeting                          | 1 Stunden  |
 |   **08.05.2024**   |          Meeting: Aufteilung der Implementierungsaufgaben                             | 1 Stunden  |
+|   **11.05.2024**   |          Server-Deployment erstellen                             | 2 Stunden  |
+|   **12.05.2024**   |          Login-Funktion implementieren                            | 2 Stunden  |
+|   **13.05.2024**   |          Weekly: Vorstellung der Fortschritte                           | 1 Stunden  |
