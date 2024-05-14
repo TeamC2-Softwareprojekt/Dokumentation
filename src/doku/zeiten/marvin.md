@@ -8,5 +8,6 @@
 | **01.05.2024** | Meeting zur fertigstellung der Softwarespezifikation | 3 Stunden |
 | **02.05.2024** |              Map und Marker hinzugefügt              | 2 Stunden |
 | **13.05.2024** |              Marker Menü erstellt              | 2 Stunden |
-| **13.05.2024** |              Meeting Zwischenstände             |  Stunden |
+| **13.05.2024** |              Meeting Zwischenstände             |  2 Stunden |
+| **14.05.2024** |              Parkplätze aus der Datenbank anzeigen             |  2 Stunden |
 
