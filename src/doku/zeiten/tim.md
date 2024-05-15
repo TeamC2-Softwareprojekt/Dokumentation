@@ -12,6 +12,6 @@
 | **04.05.2024** | Vertraut machen mit Ionic         | 1 Stunde  |
 | **08.05.2024** | Meeting: Aufteilung der Implementierungsaufgaben     | 1 Stunde  |
 | **13.05.2024** | Wöchentlich: Vorstellung der Fortschritte            | 1 Stunde  |
-| **15.05.2024** | Implementierung der Registrierung und updaten von Funktionen      | 4,5 Stunden  |
+| **15.05.2024** | Implementierung der Registrierung und updaten von Funktionen      | 5 Stunden  |
 |   **..2024**   |                                   |  Stunden  |
 |   **..2024**   |                                   |  Stunden  |
