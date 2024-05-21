@@ -14,4 +14,8 @@
 |   **08.05.2024**   |          Meeting: Aufteilung der Implementierungsaufgaben                             | 1 Stunden  |
 |   **11.05.2024**   |          Server-Deployment erstellen                             | 2 Stunden  |
 |   **12.05.2024**   |          Login-Funktion implementieren                            | 2 Stunden  |
-|   **13.05.2024**   |          Weekly: Vorstellung der Fortschritte                           | 1 Stunden  |
+|   **13.05.2024**   |          Login/Registrierung implementieren                           | 3 Stunden  |
+|   **15.05.2024**   |          Login/Registrierung implementieren                          | 1 Stunden  |
+|   **19.05.2024**   |          DB normalisieren und Server anpassen                        | 2 Stunden  |
+|   **20.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunden  |
+|   **21.05.2024**   |          Anpassen der Datenbank                          | 1 Stunden  |
