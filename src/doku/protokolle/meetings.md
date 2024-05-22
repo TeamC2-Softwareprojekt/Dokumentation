@@ -110,3 +110,38 @@ Nach der Vorstellung der Implementierungen diskutierten wir die noch offenen Pun
 Nach einer produktiven Besprechung sind wir mit einem klaren Fahrplan für die nächsten Schritte ausgestattet. Jeder hat seine Implementierung vorgestellt, was zu einem umfassenden Verständnis des aktuellen Standes geführt hat. Die Fortschritte von Bent und Edwin bei der Parkplatzliste sowie Marvins Arbeit an der Kartenimplementierung wurden präsentiert. Timos Fortschritte bei der Serverentwicklung sind ebenfalls vorgestellt worden.
 
 Wir haben identifiziert, dass die Priorität nun auf der Server-Bereitstellung liegt, gefolgt von der dynamischen Befüllung der Karte und Liste mit Markern. Zusätzlich ist es wichtig, die beiden Darstellungsformen miteinander zu verknüpfen, um eine nahtlose Benutzererfahrung zu gewährleisten.
+
+
+--- 
+
+
+## Weekly-Meeting: 20.05.2024 (Protokollant: Timo Haverich)
+### Teilnehmer:
+- Tim Röckemann
+- Marvin Petschulat
+- Timo Haverich
+- Edwin Dik
+- Bent Schöne 
+- Mattis Wellenbüscher
+
+### Agenda:
+- Besprechung der Fortschritte der Aufgaben
+- Klärung von Fragen
+- Planung der nächsten Schritte
+- Besprechung von Problemen
+- Pull Requests erstellen
+
+### Besprechung:
+- **Vorstellung aller Implementierungen:**
+    - **Bent und Edwin:** Präsentierten ihren Fortschritt bei der Entwicklung der Parkplatzliste, inklusive neuer Funktionen und Bugfixes.
+    - **Marvin:** Stellte die fortgeschrittene Kartenimplementierung vor, die jetzt Marker aus der Datenbank dynamisch einbindet.
+    - **Timo, Tim, Ole:** Gab einen detaillierten Überblick über den aktuellen Stand der Serverentwicklung und der Datenbankintegration, einschließlich der neuesten Performance-Optimierungen.
+
+### Nächste Schritte:
+- Durchführung von Code Reviews für die eingereichten Pull Requests.
+- Bearbeitung und Behebung von Feedback aus den Code Reviews.
+- Zusammenführen (Mergen) der verschiedenen Entwicklungen in den Hauptbranch.
+- Detaillierte Planung der nächsten Aufgaben, basierend auf den aktuellen Projektanforderungen und den Fortschritten der letzten Woche.
+
+### Schlussbemerkung:
+Das Meeting war produktiv und zielorientiert. Die Fortschritte in den verschiedenen Bereichen sind vielversprechend, und die nächsten Schritte wurden klar definiert. Wir sind zuversichtlich, dass wir durch die Zusammenarbeit und das kontinuierliche Feedback die Projektziele effizient erreichen werden. Bitte stellt sicher, dass alle offenen Fragen und Unklarheiten zeitnah geklärt werden, um Verzögerungen zu vermeiden. 
