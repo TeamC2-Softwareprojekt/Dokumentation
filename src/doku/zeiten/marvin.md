@@ -10,4 +10,7 @@
 | **13.05.2024** |              Marker Menü erstellt              | 2 Stunden |
 | **13.05.2024** |              Meeting Zwischenstände             |  2 Stunden |
 | **14.05.2024** |              Parkplätze aus der Datenbank anzeigen             |  2 Stunden |
+| **20.05.2024** |              Meeting Zwischenstände besprechen und Abgabe für MVP vorbereuten             |  2 Stunden |
+| **21.05.2024** |        Marker per Coordinaten auf der Map anzeigen lassen angefangen       | 3 Stunden
+| **22.05.2024** |        Marker per Coordinaten auf der Map anzeigen lassen fertig stellen       | 3 Stunden
 
