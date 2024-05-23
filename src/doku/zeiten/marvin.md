@@ -13,4 +13,9 @@
 | **20.05.2024** |              Meeting Zwischenstände besprechen und Abgabe für MVP vorbereuten             |  2 Stunden |
 | **21.05.2024** |        Marker per Coordinaten auf der Map anzeigen lassen angefangen       | 3 Stunden
 | **22.05.2024** |        Marker per Coordinaten auf der Map anzeigen lassen fertig stellen       | 3 Stunden
+| **23.05.2024** |        Meeting vor der Besprechung mit Brunsmann       | 1 Stunden
+| **23.05.2024** |       GPS Abfrage für Marker       | 2 Stunden
+
+
+
 
