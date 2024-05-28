@@ -19,3 +19,5 @@
 |   **19.05.2024**   |          DB normalisieren und Server anpassen                        | 2 Stunden  |
 |   **20.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunden  |
 |   **21.05.2024**   |          Anpassen der Datenbank                          | 1 Stunden  |
+|   **23.05.2024**   |          Besprechung des Zwischenstandes via Zoom                         | 1 Stunden  |
+|   **28.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunden  |

@@ -10,3 +10,4 @@
 |   **08.05.2024**   |              Meeting: Aufteilung der Implementierungsaufgaben                    | 1,5 Stunden  |
 |   **13.05.2024**   |           Weekly: Vorstellung der Fortschritte usw.                        |  1 Stunden  |
 |   **20.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunden  |
+|   **23.05.2024**   |          Besprechung des Zwischenstandes via Zoom                         | 1 Stunden  |
