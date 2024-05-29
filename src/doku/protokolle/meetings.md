@@ -85,6 +85,7 @@ Die heutige Besprechung hat wichtige Fortschritte in Bezug auf die Zuweisung von
 - Edwin Dik
 - Bent Schöne 
 - Mattis Wellenbüscher
+- Jan-Ole Löffler
 
 ### Agenda:
 - Besprechung der Fortschritte der Aufgaben
@@ -122,6 +123,7 @@ Wir haben identifiziert, dass die Priorität nun auf der Server-Bereitstellung l
 - Timo Haverich
 - Edwin Dik
 - Bent Schöne 
+- Jan-Ole Löffler
 - Mattis Wellenbüscher
 
 ### Agenda:
@@ -145,3 +147,40 @@ Wir haben identifiziert, dass die Priorität nun auf der Server-Bereitstellung l
 
 ### Schlussbemerkung:
 Das Meeting war produktiv und zielorientiert. Die Fortschritte in den verschiedenen Bereichen sind vielversprechend, und die nächsten Schritte wurden klar definiert. Wir sind zuversichtlich, dass wir durch die Zusammenarbeit und das kontinuierliche Feedback die Projektziele effizient erreichen werden. Bitte stellt sicher, dass alle offenen Fragen und Unklarheiten zeitnah geklärt werden, um Verzögerungen zu vermeiden. 
+
+
+--- 
+
+
+## Weekly-Meeting: 28.05.2024 (Protokollant: Timo Haverich)
+
+### Teilnehmer:
+- Tim Röckemann
+- Marvin Petschulat
+- Timo Haverich
+- Edwin Dik
+- Bent Schöne 
+- Jan-Ole Löffler
+- Mattis Wellenbüscher
+
+### Agenda:
+- Besprechung der nächsten Aufgaben
+- Fortschritt der laufenden Projekte
+- Klärung aufgetretener Probleme
+
+### Besprechung:
+- Marvin präsentierte den aktuellen Fortschritt bei der Entwicklung der Kartenfunktionalität. Es wurden wichtige Meilensteine erreicht, die die weitere Arbeit erleichtern.
+- Bent berichtete über den Fortschritt bei der Listenfunktion. Er hob die Implementierung wichtiger Features hervor, die die Benutzerfreundlichkeit deutlich verbessern.
+- Es wurde beschlossen, sich an der AirBnB-Anwendung als Vorlage zu orientieren, um bewährte Design- und Funktionsmuster zu übernehmen.
+- Die aktuellen Pull Requests werden zeitnah gemergt, um die neuesten Änderungen und Verbesserungen im Code zu integrieren.
+- Die Aufgabenverteilung für die nächsten Schritte wurde festgelegt, um die Effizienz im Team zu maximieren.
+
+### Nächste Schritte:
+- **Edwin, Bent**: Implementierung eines Filtersystems für die Liste, um die Suche nach spezifischen Einträgen zu erleichtern.
+- **Tim, Ole**: Entwicklung und Verfeinerung der Benutzerprofil-Funktionalität, einschließlich der Verwaltung persönlicher Daten und Präferenzen.
+- **Marvin, Mattis**: Platzierung von Markern auf der Karte durch Klick, sowie die Nutzung des aktuellen Standorts zur besseren Benutzererfahrung.
+- **Timo**: Optimierung des Server Deployments, Sicherstellung eines konsistenten Datenbankzustands für Testzwecke, Implementierung von Passwort-Hashing und Verbesserung der Datenbankverbindungen.
+
+### Schlussbemerkung:
+Das Meeting war sehr produktiv und alle Teilnehmer haben klar umrissene Aufgaben für die kommende Woche erhalten. Durch die gute Zusammenarbeit und den regen Austausch konnten wichtige Fortschritte erzielt werden. Die Orientierung an bewährten Vorlagen wie AirBnB wird helfen, die Anwendung weiter zu verbessern und die Nutzererfahrung zu optimieren. Das Team blickt zuversichtlich auf die nächsten Schritte und freut sich auf die weiteren Entwicklungen.
+
