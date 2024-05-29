@@ -15,3 +15,6 @@
 | **14.05.2024** |                      Arbeiten an Issue #1                       |  3 Stunden  |
 | **17.05.2024** |                      Arbeiten an Issue #1                       |  2 Stunden  |
 | **20.05.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunde   |
+| **23.05.2024** |            Besprechung des Zwischenstandes via Zoom             |  1 Stunden  |
+| **28.05.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunde   |
+| **29.05.2024** |                      Code Review von PR #9                      |  1 Stunde   |
