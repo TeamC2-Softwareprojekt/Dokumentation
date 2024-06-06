@@ -13,5 +13,7 @@
 | **08.05.2024** | Meeting: Aufteilung der Implementierungsaufgaben     | 1 Stunde  |
 | **13.05.2024** | Wöchentlich: Vorstellung der Fortschritte            | 1 Stunde  |
 | **15.05.2024** | Implementierung der Registrierung und updaten von Funktionen      | 5 Stunden  |
-|   **..2024**   |                                   |  Stunden  |
+| **20.05.2024** | Team-Meeting Vorstellung der Fortschritte usw.                         | 1 Stunden  |
+| **27.05.2024** | Team-Meeting Mergen der Stände                       | 1 Stunden  |
+| **29.05.2024** | Erstellen eines Userprofils                                  | 4 Stunden  |
 |   **..2024**   |                                   |  Stunden  |
