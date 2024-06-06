@@ -184,3 +184,58 @@ Das Meeting war produktiv und zielorientiert. Die Fortschritte in den verschiede
 ### Schlussbemerkung:
 Das Meeting war sehr produktiv und alle Teilnehmer haben klar umrissene Aufgaben für die kommende Woche erhalten. Durch die gute Zusammenarbeit und den regen Austausch konnten wichtige Fortschritte erzielt werden. Die Orientierung an bewährten Vorlagen wie AirBnB wird helfen, die Anwendung weiter zu verbessern und die Nutzererfahrung zu optimieren. Das Team blickt zuversichtlich auf die nächsten Schritte und freut sich auf die weiteren Entwicklungen.
 
+
+--- 
+
+
+## Weekly-Meeting: 03.06.2024 (Protokollant: Timo Haverich)
+
+### Teilnehmer:
+- Tim Röckemann
+- Marvin Petschulat
+- Timo Haverich
+- Edwin Dik
+- Jan-Ole Löffler
+- Mattis Wellenbüscher
+
+### Agenda:
+- Besprechung der nächsten Aufgaben
+- Fortschritt der laufenden Projekte
+- Klärung aufgetretener Probleme
+
+### Besprechung:
+- Jeder stellt seine Fortschritte vor
+- Aufgabenverteilung für die Woche zur Erreichung des MVP
+- Implementierung und Durchführung von Tests
+
+### Nächste Schritte:
+- Bearbeitung der Aufgaben zur Fertigstellung des MVP
+
+### Schlussbemerkung:
+Die Besprechung verlief produktiv und zielgerichtet. Die definierten Aufgaben und nächsten Schritte wurden klar kommuniziert, sodass alle Teammitglieder wissen, was in der kommenden Woche zu tun ist.
+
+
+--- 
+
+
+## MVP-Meeting: 06.06.2024 (Protokollant: Timo Haverich)
+
+### Teilnehmer:
+- Tim Röckemann
+- Marvin Petschulat
+- Timo Haverich
+- Edwin Dik
+- Jan-Ole Löffler
+- Mattis Wellenbüscher
+
+### Agenda:
+- 
+
+### Besprechung:
+- 
+
+### Nächste Schritte:
+- 
+
+### Schlussbemerkung:
+
