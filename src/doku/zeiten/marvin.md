@@ -15,6 +15,10 @@
 | **22.05.2024** |        Marker per Coordinaten auf der Map anzeigen lassen fertig stellen       | 3 Stunden
 | **23.05.2024** |        Meeting vor der Besprechung mit Brunsmann       | 1 Stunden
 | **23.05.2024** |       GPS Abfrage für Marker       | 2 Stunden
+|   **27.05.2024**   |          Änderungen für Merge                         | 3 Stunden  |
+|   **28.05.2024**   |          Weekly: Vorstellung der Fortschritte                          | 1 Stunden  |
+| **06.06.2024** |       Meeting und Vorstellung MVP       | 2 Stunden
+| **12.06.2024** |       Marker Erstellen per Map Selection       | 5 Stunden
 
 
 

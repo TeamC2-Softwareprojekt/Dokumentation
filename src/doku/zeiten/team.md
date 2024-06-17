@@ -11,3 +11,6 @@
 |   **13.05.2024**   |           Weekly: Vorstellung der Fortschritte usw.                        |  1 Stunden  |
 |   **20.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunden  |
 |   **23.05.2024**   |          Besprechung des Zwischenstandes via Zoom                         | 1 Stunden  |
+|   **28.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunde  |
+|   **06.06.2024**   |          Besprechung des Zwischenstandes via Zoom                         | 1 Stunden  |
+|   **17.05.2024**   |          Weekly: Vorstellung der Fortschritte usw.                         | 1 Stunde  |
