@@ -197,6 +197,8 @@ Das Meeting war sehr produktiv und alle Teilnehmer haben klar umrissene Aufgaben
 - Edwin Dik
 - Jan-Ole Löffler
 - Mattis Wellenbüscher
+- Bent Schöne 
+
 
 ### Agenda:
 - Besprechung der nächsten Aufgaben
@@ -226,16 +228,59 @@ Die Besprechung verlief produktiv und zielgerichtet. Die definierten Aufgaben un
 - Timo Haverich
 - Edwin Dik
 - Jan-Ole Löffler
+- Bent Schöne 
 - Mattis Wellenbüscher
 
 ### Agenda:
-- 
+- Fortschritte besprechen
+- Issues erstellen
 
 ### Besprechung:
-- 
+- Tim, Ole: Passwort-Zurücksetzen, Logout-Fehler beheben
+- Timo: Parkplatz-Detailseite
+- Mattis: Parkplätze anlegen durch auf Map klicken
+- Bent: Filter erweitern
+- Edwin: Anlegen von privaten Parkplätzen
 
 ### Nächste Schritte:
-- 
+- Pull requests erstellen
+- Code reviews
+- Mergen der Branches
 
 ### Schlussbemerkung:
+Die Besprechung verlief produktiv und zielgerichtet. Die definierten Aufgaben und nächsten Schritte wurden klar kommuniziert, sodass alle Teammitglieder wissen, was in der kommenden Woche zu tun ist.
+
+
+--- 
+
+
+## MVP-Meeting: 17.06.2024 (Protokollant: Timo Haverich)
+
+### Teilnehmer:
+- Tim Röckemann
+- Marvin Petschulat
+- Timo Haverich
+- Edwin Dik
+- Jan-Ole Löffler
+- Mattis Wellenbüscher
+
+### Agenda:
+- Ergebnisse der Bearbeitungsphase vorstellen
+- Nächste Aufgaben besprechen 
+
+### Besprechung:
+- Vorstellung der Implementierungen
+    - **Marvin, Mattis:** Parkplatz anlegen durch klick auf die Karte und anbinden einer Country-Selector API, JWT Verifizierung eigebunden
+    - **Tim, Ole:** Implementierung Passwort-Vergessen Seite
+    - **Timo:** Implementierung einer Cloudinary-API zur Speicherung von Bildern in einer cloud und einer Parkplatzdetailseite mit Review-Funktion
+    - **Bent, Ole:** Erstellung von Privaten Parkplätzen und Finalisierung des Filters
+
+
+### Nächste Schritte:
+- Pull requests
+- Code reviews
+- Mergen der Branches
+
+### Schlussbemerkung:
+Die Besprechung verlief produktiv und zielgerichtet. Die definierten Aufgaben und nächsten Schritte wurden klar kommuniziert, sodass alle Teammitglieder wissen, was in der kommenden Woche zu tun ist.
 
