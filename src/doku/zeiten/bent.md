@@ -19,6 +19,9 @@
 | **28.05.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunde   |
 | **29.05.2024** |                      Code Review von PR #9                      |  1 Stunde   |
 | **02.06.2024** |                      Arbeiten an Issue #10                      |  3 Stunden  |
-| **03.06.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunden  |
+| **03.06.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunde   |
 | **04.06.2024** |                      Arbeiten an Issue #10                      |  3 Stunden  |
 | **06.06.2024** |                      Arbeiten an Issue #10                      |  3 Stunden  |
+| **11.06.2024** |                      Arbeiten an Issue #10                      |  4 Stunden  |
+| **17.06.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunde   |
+| **18.06.2024** |                          Code Reviews                           |  3 Stunden  |
