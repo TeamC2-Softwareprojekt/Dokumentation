@@ -12,5 +12,12 @@
 | **06.05.2024** | Weekly: Technologieauswahl und Planung nächste Schritte| 2 Stunden  |
 | **07.05.2024** | Über Appentwicklung mit Ionic informieren | 1,5 Stunden  |
 | **15.05.2024** | Implementierung der Registrierung und updaten von Funktionen | 5 Stunden  |
-|   **..2024**   |                                   |  Stunden  |
+| **20.05.2024** | Weekly: Vorstellung der Fortschritte | 1 Stunden  |
+| **27.05.2024** | Änderungen für Merge     | 3 Stunden  |
+| **28.05.2024** | Weekly: Vorstellung der Fortschritte  | 1 Stunden  |
+| **29.05.2024** | Erstellen eines Userprofils       | 4 Stunden  |
+| **03.06.2024** | Weekly: Vorstellung der Fortschritte | 1 Stunden  |
+| **06.06.2024** | MVP-Meeting                       | 1 Stunden  |
+| **10.06.2024** | Implementierung Passwort-Vergessen Seite | 2 Stunden  |
+| **17.06.2024** | Weekly: Vorstellung der Fortschritte | 1 Stunden  |
 |   **..2024**   |                                   |  Stunden  |
