@@ -19,6 +19,11 @@
 |   **28.05.2024**   |          Weekly: Vorstellung der Fortschritte                          | 1 Stunden  |
 | **06.06.2024** |       Meeting und Vorstellung MVP       | 2 Stunden
 | **12.06.2024** |       Marker Erstellen per Map Selection       | 5 Stunden
+| **17.06.2024** |           Weekly Meeting: Besprechung aktueller Stand           |  1 Stunde   |
+| **18.06.2024** |             Private Parking Spot informationen        |  3 Stunden   |
+| **24.06.2024** |             Marker Design angepasst und viele kleine Veränderungen        |  4 Stunden   |
+| **01.07.2024** |           Weekly Meeting: Besprechung aktueller Stand und weiteres Vorgehen für den Endstand           |  2 Stunde   |
+| **02.07.2024** |           Code Review Verbesserungen umgesetzt         |  2 Stunde   |
 
 
 
