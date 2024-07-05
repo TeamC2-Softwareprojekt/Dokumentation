@@ -29,5 +29,18 @@
 | **06.06.2024** |                      Server-Optimierungen und Änderungen                      |  3 Stunden  |
 | **10.06.2024** |                      Parkingspot-Detailseite implementieren                      |  3 Stunden  |
 | **12.06.2024** |                      Parkingspot-Detailseite implementieren                      |  3 Stunden  |
-| **14.06.2024** |                      Parkingspot-Detailseite implementieren und Review-Funktion                      |  3 Stunden  |
+| **14.06.2024** |                 Parkingspot-Detailseite implementieren und Review-Funktion          |  3 Stunden  |
 | **17.06.2024** |                      Weekly: Vorstellung der Fortschritte usw.                      |  1 Stunde  |
+| **18.06.2024** |                 Server-Funktionen hinzufügen          |  1 Stunde  |
+| **19.06.2024** |                 Upload Image to Cloudinary an alle nötigen Stellen implementieren         |  5 Stunden  |
+| **20.06.2024** |                 Initalen Datensatz anpassen          |  2 Stunden  |
+| **22.06.2024** |                 Server-Funktionen hinzufügen          |  1 Stunde  |
+| **24.06.2024** |                 Weekly: Vorstellung der Fortschritte usw.                      |  1 Stunde  |
+| **25.06.2024** |                 Server-Funktionen hinzufügen          |  1 Stunde  |
+| **26.06.2024** |                 Parkingspot-Editieren implementieren          |  5 Stunden  |
+| **27.06.2024** |                 Parkingspot-Löschen implementieren          |  3 Stunden  |
+| **28.06.2024** |                 Server-Funktionen hinzufügen          |  1 Stunde  |
+| **01.07.2024** |                 Weekly: Finale Absprache für die Abgabe und letze ToDos               |  1 Stunde  |
+| **02.06.2024** |                 Parkingspot-Melden implementieren          |  3 Stunden  |
+| **04.06.2024** |                 Webapplikation: Testing          |  2 Stunden  |
+| **05.06.2024** |                 User-Points zur DB hinzufügen und in APP integrieren          |  3 Stunden  |
