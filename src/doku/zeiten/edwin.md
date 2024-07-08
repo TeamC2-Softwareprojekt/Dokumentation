@@ -31,3 +31,17 @@
 | **17.06.2024** |                     Arbeiten am issue #19 und #20                     | 3 Stunden |
 | **17.06.2024** |                             Code reviews                              | 2 Stunden |
 | **18.06.2024** |              Pull request #34 geöffnet und Code reviews               | 2 Stunden |
+| **22.06.2024** |                         Arbeiten am issue #20                         | 3 Stunden |
+| **23.06.2024** |                         Arbeiten am issue #20                         | 3 Stunden |
+| **24.06.2024** |                   Arbeiten am issue #20 und Meeting                   | 2 Stunden |
+| **25.06.2024** |                Arbeiten am issue #20 und Code reviews                 | 4 Stunden |
+| **26.06.2024** |                 Arbeiten am issue #20 und Code review                 | 5 Stunden |
+| **27.06.2024** |                 Arbeiten am issue #20 und Code review                 | 3 Stunden |
+| **01.07.2024** |             Arbeiten am issue #20, Code reviews, Meeting              | 6 Stunden |
+| **02.07.2024** |                             Code reviews                              | 3 Stunden |
+| **03.07.2024** |                        Pull requests gemerged                         | 5 Stunden |
+| **03.07.2024** |                                Meeting                                | 1 Stunde  |
+| **05.07.2024** |                     Arbeiten am issue #63 und #61                     | 4 Stunden |
+| **06.07.2024** |                         Arbeiten am issue #63                         | 2 Stunden |
+| **07.07.2024** |                         Arbeiten am issue #63                         | 1 Stundee |
+| **08.07.2024** |                     Meeting Arbeiten am issue #63                     | 3 Stunden |
