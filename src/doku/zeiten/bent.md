@@ -41,3 +41,6 @@
 | **03.07.2024** |        Mergen von PRs #52, #53, #54, #55, #56, #57, #58         |  4 Stunden  |
 | **05.07.2024** |                       Code Review PR #67                        |  1 Stunde   |
 | **05.07.2024** |                      Arbeiten an Issue #63                      |  2 Stunden  |
+| **06.07.2024** |                  Arbeiten an der Präsentation                   |  1 Stunden  |
+| **06.07.2024** |                   Spezifikation überarbeiten                    |  2 Stunden  |
+| **08.07.2024** |            Weekly Meeting: Finale Aufgabenverteilung            |  1 Stunden  |
