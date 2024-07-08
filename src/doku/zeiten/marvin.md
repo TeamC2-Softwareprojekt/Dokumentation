@@ -24,6 +24,9 @@
 | **24.06.2024** |             Marker Design angepasst und viele kleine Veränderungen        |  4 Stunden   |
 | **01.07.2024** |           Weekly Meeting: Besprechung aktueller Stand und weiteres Vorgehen für den Endstand           |  2 Stunde   |
 | **02.07.2024** |           Code Review Verbesserungen umgesetzt         |  2 Stunde   |
+| **05.07.2024** |           Skript Präsentation angefangen         |  2 Stunde   |
+| **08.07.2024** |           Skript Präsentation und Webiste deployment weiter machen         |  2 Stunden   |
+| **08.07.2024** |           Meeting Letzte Aufgaben Verteilung vor Präsentation         |  2 Stunde   |
 
 
 
