@@ -41,6 +41,7 @@
 | **27.06.2024** |                 Parkingspot-Löschen implementieren          |  3 Stunden  |
 | **28.06.2024** |                 Server-Funktionen hinzufügen          |  1 Stunde  |
 | **01.07.2024** |                 Weekly: Finale Absprache für die Abgabe und letze ToDos               |  1 Stunde  |
-| **02.06.2024** |                 Parkingspot-Melden implementieren          |  3 Stunden  |
-| **04.06.2024** |                 Webapplikation: Testing          |  2 Stunden  |
-| **05.06.2024** |                 User-Points zur DB hinzufügen und in APP integrieren          |  3 Stunden  |
+| **02.07.2024** |                 Parkingspot-Melden implementieren          |  3 Stunden  |
+| **04.07.2024** |                 Webapplikation: Testing          |  2 Stunden  |
+| **05.07.2024** |                 User-Points zur DB hinzufügen und in APP integrieren          |  3 Stunden  |
+| **09.07.2024** |                 Präsentation und Abgabedokumente vorbereiten          |  2 Stunden  |

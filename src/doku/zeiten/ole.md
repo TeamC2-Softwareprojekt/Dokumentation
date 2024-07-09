@@ -20,4 +20,13 @@
 | **06.06.2024** | MVP-Meeting                       | 1 Stunden  |
 | **10.06.2024** | Implementierung Passwort-Vergessen Seite | 2 Stunden  |
 | **17.06.2024** | Weekly: Vorstellung der Fortschritte | 1 Stunden  |
-|   **..2024**   |                                   |  Stunden  |
+| **24.06.2024** | Team-Meeting: Vorstellung der Fortschritte usw.          | 1 Stunde   |
+| **24.06.2024** | Buchungsanzeige für user hinzufügen/                     | 4 Stunden  |
+| **25.06.2024** | Buchungsanzeige für user hinzufügen/ Rechnung            | 3 Stunden  |
+| **27.06.2024** | Buchungsanzeige für user hinzufügen/ Informationen       | 3 Stunden  |
+| **28.06.2024** | Buchungsanzeige für user hinzufügen/ Image zoom          | 2 Stunden  |
+| **30.06.2024** | Buchungsanzeige für user hinzufügen                      | 2 Stunden  |
+| **01.07.2024** | Team-Meeting: Vorstellung der Stände und Besprechung des weiteren Vorgehens | 1 Stunden  |
+| **01.07.2024** | Buchungsanzeige überarbeitet                             | 2 Stunden  |
+| **02.07.2024** | Buchungsanzeige überarbeitet                             | 2 Stunden  |
+| **06.07.2024** | Vorbereitungen für die Präsentation                      | 2 Stunden  |
