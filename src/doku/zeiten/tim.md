@@ -30,7 +30,9 @@
 | **28.06.2024** | Buchungsanzeige für user hinzufügen/ Image zoom          | 2 Stunden  |
 | **30.06.2024** | Buchungsanzeige für user hinzufügen                      | 2 Stunden  |
 | **01.07.2024** | Team-Meeting: Vorstellung der Stände und Besprechung des weiteren Vorgehens | 1 Stunden  |
-| **01.07.2024** | Buchungsanzeige überarbeitet                             | 2 Stunden  |
-| **02.07.2024** | Buchungsanzeige überarbeitet                             | 2 Stunden  |
+| **01.07.2024** | Buchungsanzeige überarbeitet/Testen                      | 3 Stunden  |
+| **02.07.2024** | Buchungsanzeige überarbeitet/Testen                      | 3 Stunden  |
 | **06.07.2024** | Vorbereitungen für die Präsentation                      | 2 Stunden  |
-|   **..2024**   |                                                          |  Stunden   |
+| **06.07.2024** | Vorbereitungen für die Präsentation                      | 2 Stunden  |
+| **08.07.2024** | Weekly Meeting: Finale Aufgabenverteilung                | 1 Stunde   |
+
