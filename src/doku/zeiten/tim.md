@@ -33,6 +33,6 @@
 | **01.07.2024** | Buchungsanzeige überarbeitet/Testen                      | 3 Stunden  |
 | **02.07.2024** | Buchungsanzeige überarbeitet/Testen                      | 3 Stunden  |
 | **06.07.2024** | Vorbereitungen für die Präsentation                      | 2 Stunden  |
-| **06.07.2024** | Vorbereitungen für die Präsentation                      | 2 Stunden  |
+| **07.07.2024** | Vorbereitungen für die Präsentation                      | 2 Stunden  |
 | **08.07.2024** | Weekly Meeting: Finale Aufgabenverteilung                | 1 Stunde   |
 
