@@ -136,7 +136,7 @@ Wir haben identifiziert, dass die Priorität nun auf der Server-Bereitstellung l
 
 **Vorstellung aller Implementierungen:**
 - **Bent und Edwin:** Präsentierten ihren Fortschritt bei der Entwicklung der Parkplatzliste, inklusive neuer Funktionen und Bugfixes
-- **Marvin:** Stellte die fortgeschrittene Kartenimplementierung vor, die jetzt Marker aus der Datenbank dynamisch einbindet
+- **Marvin, Ole:** Stellte die fortgeschrittene Kartenimplementierung vor, die jetzt Marker aus der Datenbank dynamisch einbindet
 - **Timo, Tim, Ole:** Gaben einen detaillierten Überblick über den aktuellen Stand der Serverentwicklung und der Datenbankintegration, einschließlich der neuesten Performance-Optimierungen
 
 ### Nächste Schritte:
@@ -171,9 +171,7 @@ Das Meeting war produktiv und zielorientiert. Die Fortschritte in den verschiede
 - **Marvin:** Präsentierte den aktuellen Fortschritt bei der Entwicklung der Kartenfunktionalität. Es wurden wichtige Meilensteine erreicht, die die weitere Arbeit erleichtern
 - **Bent:** Berichtete über den Fortschritt bei der Listenfunktion. Er hob die Implementierung wichtiger Features hervor, die die Benutzerfreundlichkeit deutlich verbessern
 - **Design-Vorlage:** Es wurde beschlossen, sich an der AirBnB-Anwendung als Vorlage zu orientieren, um bewährte Design- und Funktionsmuster zu übernehmen
-- **Pull Requests:** Die aktuellen Pull Requests werden zeitnah gemergt, um die neuesten Änderungen und Verbesser
-
-ungen in den Hauptbranch zu integrieren
+- **Pull Requests:** Die aktuellen Pull Requests werden zeitnah gemergt, um die neuesten Änderungen und Verbesserungen in den Hauptbranch zu integrieren
 - **Login-Funktion:** Wurde ebenfalls in das aktuelle Projekt integriert und funktioniert wie vorgesehen
 - **Kommunikation:** Es wird darauf hingewiesen, dass die Kommunikation weiterhin reibungslos und effizient erfolgen muss, um den Projektfortschritt zu sichern
 
@@ -243,7 +241,7 @@ Das Meeting war erfolgreich und hat wichtige Fortschritte sowie nächste Schritt
 
 **Vorstellung aller Implementierungen:**
 - **Bent und Edwin:** Zeigten ihre Fortschritte bei der Listenfunktionalität, einschließlich neuer Filteroptionen und verbesserter Benutzerfreundlichkeit
-- **Marvin:** Präsentierte den aktuellen Stand der Kartenimplementierung, die nun eine verbesserte Benutzerinteraktion bietet
+- **Marvin, Mattis:** Präsentierte den aktuellen Stand der Kartenimplementierung, die nun eine verbesserte Benutzerinteraktion bietet
 - **Tim und Timo:** Gaben einen Überblick über die Backend-Entwicklung, einschließlich der neuesten Performance-Optimierungen und Sicherheitsupdates
 
 ### Nächste Schritte:
@@ -277,7 +275,7 @@ Das Meeting war produktiv und hat wichtige Fortschritte sowie nächste Schritte 
 
 **Vorstellung aller Implementierungen:**
 - **Bent und Edwin:** Präsentierten ihre Arbeit an der Parkplatzliste, einschließlich neuer Features zur verbesserten Benutzerfreundlichkeit
-- **Marvin:** Zeigte den aktuellen Stand der Kartenimplementierung, einschließlich neuer Interaktionsmöglichkeiten für die Benutzer
+- **Marvin, Ole:** Zeigte den aktuellen Stand der Kartenimplementierung, einschließlich neuer Interaktionsmöglichkeiten für die Benutzer
 - **Tim und Timo:** Gaben einen Überblick über die Backend-Entwicklung, einschließlich der neuesten Performance-Optimierungen und Sicherheitsupdates
 
 ### Nächste Schritte:
@@ -312,7 +310,7 @@ Das Meeting war produktiv und hat wichtige Fortschritte sowie nächste Schritte 
 
 **Vorstellung aller Implementierungen:**
 - **Bent und Edwin:** Zeigten den Fortschritt bei der Listenfunktionalität, einschließlich neuer Filter- und Sortieroptionen
-- **Marvin:** Präsentierte die fortgeschrittene Kartenimplementierung, die nun eine verbesserte Darstellung und Interaktivität bietet
+- **Marvin, Ole:** Präsentierte die fortgeschrittene Kartenimplementierung, die nun eine verbesserte Darstellung und Interaktivität bietet
 - **Tim und Timo:** Gaben einen Überblick über die Backend-Entwicklung, einschließlich der neuesten Performance-Optimierungen und Sicherheitsupdates
 
 ### Nächste Schritte:
@@ -345,11 +343,9 @@ Das Meeting war produktiv und hat wichtige Fortschritte sowie nächste Schritte 
 ### Besprechung:
 
 **Vorstellung aller Implementierungen:**
-- **Bent und Edwin:** Präsentierten ihre Arbeit an der Parkplatzliste, einschließlich neuer
-
- Funktionen und verbesserter Benutzerfreundlichkeit
-- **Marvin:** Zeigte den aktuellen Stand der Kartenimplementierung, einschließlich neuer Interaktionsmöglichkeiten und Verbesserungen der Darstellung
-- **Tim und Timo:** Gaben einen Überblick über die Backend-Entwicklung, einschließlich der neuesten Performance-Optimierungen und Sicherheitsupdates
+- **Bent und Edwin:** Präsentierten ihre Arbeit an der Parkplatzliste, einschließlich neuer Funktionen und verbesserter Benutzerfreundlichkeit
+- **Marvin, Mattis:** Zeigte den aktuellen Stand der Kartenimplementierung, einschließlich neuer Interaktionsmöglichkeiten und Verbesserungen der Darstellung
+- **Tim, Ole und Timo:** Gaben einen Überblick über die Backend-Entwicklung, einschließlich der neuesten Performance-Optimierungen und Sicherheitsupdates
 
 ### Nächste Schritte:
 - **Code Reviews:** Durchführung von Code Reviews für die neuesten Pull Requests, um sicherzustellen, dass der Code den Qualitätsstandards entspricht
